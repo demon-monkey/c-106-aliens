@@ -1,0 +1,1 @@
+//link- https://teachablemachine.withgoogle.com/models/BmVjCiMV9/model.json 
